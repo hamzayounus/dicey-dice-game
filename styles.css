@@ -1,0 +1,45 @@
+
+body{
+    background-color: #111111;
+    text-align: center;
+}
+  
+h1{
+    font-family: "Chewy", system-ui;
+    font-weight: 400;
+    font-size: 10rem;
+    color: #BB86FC;
+    text-shadow: 5px 5px 5px black;
+    margin: 0px 0 10px 0;
+}
+
+h2{
+    font-family: "Atma", system-ui;
+    color: #F3DFA2;
+    font-size: 4rem;
+    margin: 50px 0 25px 0;
+}
+
+h3{
+    font-family: "Atma", system-ui;
+    color: #F3DFA2;
+    font-size: 3rem;
+    margin: 0;
+}
+
+p{
+    font-family: "Chewy", system-ui;
+    font-weight: 400;
+    color: #FF6363;
+    font-size: 4rem;
+    margin: 20px 0 25px 0;
+    padding: 0;
+}
+
+button{
+    background-color: #FF6363;
+    font-family: "Chewy", system-ui;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    padding: 0 40px;
+}
